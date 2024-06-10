@@ -1,7 +1,12 @@
 [
     {
-        "name": "Mario Party DS (Europe) (En,Fr,De,Es,It).zip",
+        "name": "Mario Party DS (Europe) (En,Fr,De,Es,It)",
         "link": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20(Decrypted)/Mario%20Party%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip",
+        "type": "Nintendo DS"
+    },
+        {
+        "name": "Pokémon Rojo Fuego (GBA) (Es)",
+        "link": "https://pokemon-project.com/descargas/get/07e8b6f6dc997796c5b6f12c4fdc1b5d/15/4c726df51cb303a60518e2ec3a4e17d9/2/52860403a8449e7b4934c9950f8916ca/ES/8cd2004c0bbd98813d2fb2e7ffe5205e/zip",
         "type": "Nintendo DS"
     },
 ]
